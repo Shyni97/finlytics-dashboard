@@ -4,6 +4,10 @@ A clean, modern, and fully responsive finance dashboard built with React, Tailwi
 
 This project demonstrates a production-style frontend architecture with role-based UI behavior, local persistence, analytics, and reusable components.
 
+## Live Demo
+
+- Vercel: https://finlytics-dashboard-eta.vercel.app/login
+
 ## Project Overview
 
 The dashboard allows users to:
