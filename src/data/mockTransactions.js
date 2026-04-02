@@ -1,0 +1,17 @@
+export const mockTransactions = [
+  { id: 'tx-001', date: '2026-01-05', amount: 5200, category: 'Salary', type: 'income' },
+  { id: 'tx-002', date: '2026-01-09', amount: 120, category: 'Groceries', type: 'expense' },
+  { id: 'tx-003', date: '2026-01-11', amount: 80, category: 'Transport', type: 'expense' },
+  { id: 'tx-004', date: '2026-01-22', amount: 300, category: 'Freelance', type: 'income' },
+  { id: 'tx-005', date: '2026-02-03', amount: 5100, category: 'Salary', type: 'income' },
+  { id: 'tx-006', date: '2026-02-05', amount: 220, category: 'Utilities', type: 'expense' },
+  { id: 'tx-007', date: '2026-02-14', amount: 450, category: 'Shopping', type: 'expense' },
+  { id: 'tx-008', date: '2026-02-20', amount: 200, category: 'Investments', type: 'income' },
+  { id: 'tx-009', date: '2026-03-02', amount: 5300, category: 'Salary', type: 'income' },
+  { id: 'tx-010', date: '2026-03-04', amount: 190, category: 'Groceries', type: 'expense' },
+  { id: 'tx-011', date: '2026-03-12', amount: 340, category: 'Entertainment', type: 'expense' },
+  { id: 'tx-012', date: '2026-03-19', amount: 150, category: 'Health', type: 'expense' },
+  { id: 'tx-013', date: '2026-03-23', amount: 600, category: 'Freelance', type: 'income' },
+  { id: 'tx-014', date: '2026-04-01', amount: 5400, category: 'Salary', type: 'income' },
+  { id: 'tx-015', date: '2026-04-02', amount: 280, category: 'Dining', type: 'expense' },
+]
